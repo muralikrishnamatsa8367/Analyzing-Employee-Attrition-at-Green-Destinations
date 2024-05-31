@@ -1,4 +1,4 @@
-# ibm_hr_dataset_project
+
 
 ### Introduction
 This is my first personal project on data analysis, which focuses on Human Resources field. In this project, I will explore the **Employee Attrition and Performance** in the given dataset and visualize it by using Tableau.
@@ -23,9 +23,6 @@ Dive into current available HR metrics to reduce the attrition rate and improve 
 #### Deliverables:
 Conclusion on key findings and recommendations
 
-#### Dataset
-Public dataset can be downloaded on: 
-https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ### Table of Contents
 * [1. Attrition Overview & Visualization](https://github.com/duongvu1311/ibm_hr_dataset_project/tree/main/attrition_overview)
